@@ -1,0 +1,18 @@
+[2020-01-29 10:21:51] Текст ошибки:Нет соединения с БД | Файл: /app/ishop2.loc/vendor/ishop/core/Db.php | Строка: 16
+=======================
+[2020-01-31 12:48:33] Текст ошибки:Контроллер app\controllers\RottController не найден | Файл: /app/ishop2.loc/vendor/ishop/core/Router.php | Строка: 39
+=======================
+[2020-01-31 13:01:39] Текст ошибки:Контроллер app\controllers\admin\MainController не найден | Файл: /app/ishop2.loc/vendor/ishop/core/Router.php | Строка: 39
+=======================
+[2020-01-31 13:04:07] Текст ошибки:Контроллер app\controllers\admin\PageController не найден | Файл: /app/ishop2.loc/vendor/ishop/core/Router.php | Строка: 39
+=======================
+[2020-01-31 14:19:23] Текст ошибки:Контроллер app\controllers\admin\PageController не найден | Файл: /app/ishop2.loc/vendor/ishop/core/Router.php | Строка: 39
+=======================
+[2020-02-01 17:28:40] Текст ошибки:Контроллер app\controllers\admin\PageController не найден | Файл: /app/ishop2.loc/vendor/ishop/core/Router.php | Строка: 39
+=======================
+[2020-02-01 17:28:45] Текст ошибки:Контроллер app\controllers\admin\MainController не найден | Файл: /app/ishop2.loc/vendor/ishop/core/Router.php | Строка: 39
+=======================
+[2020-02-01 17:28:52] Текст ошибки:Контроллер app\controllers\admin\MainController не найден | Файл: /app/ishop2.loc/vendor/ishop/core/Router.php | Строка: 39
+=======================
+[2020-02-01 17:29:01] Текст ошибки:Контроллер app\controllers\admin\MainController не найден | Файл: /app/ishop2.loc/vendor/ishop/core/Router.php | Строка: 39
+=======================
