@@ -21,14 +21,6 @@ class MainController extends AppController
         $post = \R::findOne('test','id = ?',[2]);
 //        var_dump($posts);
         $this->setMeta('Главная страница', 'Описание', 'Ключевики');
-        $names = ['Andrey'];
-        $cache = Cache::instance();
-//
-        $data = $cache->get('test');
-        if (!$data){
-            $cache->set('test', $names);
-        }
 
-        $this->set(compact('names','posts'));
         }
 }
